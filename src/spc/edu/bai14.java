@@ -13,7 +13,7 @@ public class bai14 {
         System.out.println("tinh diem trung binh");
  Scanner scanner = new Scanner(System.in);
         double tongdiem = 0;
-        int somon = 3;
+        int somon = 6;
         int diem;
 
         for (int i = 1; i <= somon; i++) {
